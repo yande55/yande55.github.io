@@ -19,3 +19,4 @@ Computer Science student (IMGD, SIT/DigiPen, graduating May 2028) in Singapore. 
 ## Case studies
 - Mintybug, cutting AI cost per design chat by about 11x: https://github.com/yande55/yande55.github.io/blob/main/case-studies/mintybug.md
 - Oathbound, stopping save-code conflicts in a 6-person team: https://github.com/yande55/yande55.github.io/blob/main/case-studies/oathbound.md
+- EcoLab, keeping the simulation separate from the game engine: https://github.com/yande55/yande55.github.io/blob/main/case-studies/ecolab.md
