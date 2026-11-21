@@ -16,3 +16,5 @@ Computer Science student (IMGD, SIT/DigiPen, graduating May 2028) in Singapore. 
 ## Contact
 - Email: 2400555@sit.singaporetech.edu.sg
 - LinkedIn: https://linkedin.com/in/yande5500
+## Case studies
+- Mintybug, cutting AI cost per design chat by about 11x: https://github.com/yande55/yande55.github.io/blob/main/case-studies/mintybug.md
